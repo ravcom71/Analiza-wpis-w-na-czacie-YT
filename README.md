@@ -1,11 +1,11 @@
-# Analiza-wpis-w-na-czacie-YT
+# Analiza wpisów na czacie YouTube
 Analiza wpisów czatu YT z posiedzenia sejmu w dn. 21.12.2023 (ustawa budżetowa)
 
 Dane zawierają wpisy z czatu użytkowników kanału sejmu RP na YouTube z posiedzenia sejmu w dn. 21.12.2023 - debaty nad ustawą budżetową.
 Źródło danych: https://www.youtube.com/watch?v=NxAyPHdVDyM
 <img src="wc.png">
-Wnioski:
-Zbiór danych zawiera 34.320 wpisów 9.633 unikalnych użytkowników.
+Wnioski:  
+Zbiór danych zawiera 34.320 wpisów 9.633 unikalnych użytkowników.  
 Osoby korzystające z czatu YT dokonały łącznie 3.503 zdublowanych wpisów (kopiuj/wklej), co stanowiło 10.2% wszystkich wypowiedzi.
 Osoby obserwujące obrady w ciągu 1 minuty dokonywały średnio 45 wpisów.
 Największą liczbę wpisów odnotowano przy nicku 'Kiju_' - 654, co stanowiło 1.9% pozycji. Teksty były niezwiązane z tematyką posiedzienia i były ukierunkowane na pozyskanie pieniędzy.
